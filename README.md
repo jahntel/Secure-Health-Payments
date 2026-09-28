@@ -1,4 +1,6 @@
 # Secure Health Payments Gateway
+Author: JOHN NZAU
+Company/Solution: Secure Health Payments Gateway
 
 > **"Protecting every healthcare payment — from transaction to trust."**
 
