@@ -1,0 +1,6 @@
+{
+  "name": "Secure Health Payments Gateway",
+  "description": "Privacy-first healthcare payment security gateway with real-time risk intelligence, IBM integration adapters, and tenant isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
